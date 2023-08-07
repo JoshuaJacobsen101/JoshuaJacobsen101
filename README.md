@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoshuaJacobsen101
 - 👀 I’m interested in VR, ML with Tensorflow
-- 🌱 I’m currently learning Unity, Data Science with Python
-- 💞️ I’m looking to collaborate on Unity, VR, Sci-Fi ad Cyberpunk
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on VR, generative AI
 - 📫 How to reach me joshuajacobsen101@gmail.com
 
 <!---
